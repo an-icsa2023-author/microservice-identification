@@ -21,8 +21,6 @@ Refinement of the automated identification of methods, entities and system's lay
 
 ## Decomposition step
 
-### (6) Cohesion-Coupling Optimization of communities based on Entity Clustering
-
 ```2-Decomposition_optimization.ipynb```
 
 #### Input
